@@ -15,7 +15,7 @@ int main(){
 
 
 
-    //variables as neeeded
+    //variables as needed
     
     const char* host_ip = "127.0.0.1"; //change IP
 
